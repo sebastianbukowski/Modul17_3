@@ -1,0 +1,25 @@
+{
+  "name": "projekty_kodilla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sebastianbukowski",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianbukowski/Modul17_3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebastianbukowski/Modul17_3/issues"
+  },
+  "homepage": "https://github.com/sebastianbukowski/Modul17_3#readme"
+}
